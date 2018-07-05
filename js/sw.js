@@ -1,7 +1,7 @@
 var cacheName = 'hello-world-page';
 var filesToCache = [
-  '/pwa.html',
-  '/css/hello-world.css'
+  'testpwa/pwa.html',
+  'testpwa/css/hello-world.css'
   
 ];
 self.addEventListener('install', function(e) {
